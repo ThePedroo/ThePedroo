@@ -2,8 +2,8 @@
 
 ## About me
 
-Hello, I'm a 15y old boy from Brazil, Minas Gerais, I'm a furry and a full-stack programmer, programming since 11.
-I'm a 1st grader of high school, hopefully going to be a Computer Scientist & Programmer in the future.
+Hello, I'm a 16y old boy from Brazil, Minas Gerais, I'm a furry and a full-stack programmer, programming since 11.
+I'm a 2nd grader of high school, hopefully going to be a Computer Scientist & Programmer in the future.
 
 ## Languages and tools that I know
 
