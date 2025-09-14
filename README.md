@@ -1,25 +1,29 @@
-# My container
-
 ## About me
 
-Hello, I'm a 16y old boy from Brazil, Minas Gerais, I'm a furry and a full-stack programmer, programming since 11.
-I'm a 2nd grader of high school, hopefully going to be a Computer Scientist & Programmer in the future.
+Howdy, I am a 16-year-old boy from Brazil. I have been programming since I was 11, starting with JavaScript (Node.js). Currently, I am in the 2nd year of high school, at Instituto Federal. My hobbies, aside from programming, are being a furry (I am a wolf, hey!), listening to music, and playing games, such as Roblox (Tower of Hell especially). I look forward to becoming a Computer Scientist or a Computer Engineer.
 
-## Languages and tools that I know
+## Knowledge
 
-My knowledge is wide, but being `C` and `NodeJS` (JavaScript) my main programming languages, although I'm currently learning `Dart` for `Flutter`, `Kotlin` and `C#`.
-As for databases I know `MySQL`, `PostgreSQL`, `SQlite` and `Firebase`. and frameworks, `React native` and `Flutter`
+I have always prioritized deep knowledge in a few specific areas rather than shallow knowledge in numerous areas since I started programming. So because of that, I do not know numerous programming languages. The programming languages I am the most skilled in are `JavaScript` (`Node.js`) and `C` (mainly `C89` and `C99`). However, due to the creation of short-lived projects, I have also had experience with `Python`, `Dart` (`Flutter`), `Kotlin`, and `C#` (`Unity`).
 
-And whenever possible, looking to learn more and more things.
+`MySQL`, `PostgreSQL`, and `SQLite` are the databases I like the most. However, as I have used `Firebase` for more than 4y, it is the one I am most familiar with, although I do not use it anymore.
 
-## My most famous & favorite projects
+## Projects
 
-When we're talking about my most famous project, [TableC](https://github.com/PerformanC/TableC) wins, with +20 stars, and [Coglink](https://github.com/PerformanC/Coglink) being the second.
+[ReZygisk](https://github.com/PerformanC/ReZygisk), a project that allows close to traceless injection in Android applications through Zygote, is by far the most famous project I have built with over 2k stars on its GitHub repository. Following behind, [ReLSPosed](https://github.com/ThePedroo/ReLSPosed), in the same area as ReZygisk — code injection in Android apps — with 300+ stars and counting. And, to break the Android related projects in the podium, [NodeLink](https://github.com/PerformanC/NodeLink), a standalone server for audio playback for Discord.
 
-But when we are talking about my favorite ones, surely I would say: [Connect](https://github.com/PerformanC/Connect) (with [MessaCer](https://github.com/PerformanC/MessaCer) server), [NodeLink](https://github.com/PerformanC/NodeLink) and [TableC](https://github.com/PerformanC/TableC) too.
-
-Obviously all of them are from PerformanC, since all of them are focused on that consequently, and with better API designs than the ones in my profile.
+Other interesting projects I have built, aside from the ones listed above, are [FrequenC](https://github.com/PerformanC/FrequenC), which is also a standalone server with the same goal as NodeLink, but totally written in C, with its own HTTP client, parser and server, and a WebSocket server; [TableC](https://github.com/PerformanC/TableC), an extremely customizable, simple, and powerful C hashtable; [PerforVNM](https://github.com/PerformanC/PerforVNM), the coolest project, a code generator to generate Visual Novels with an extremely high performance.
 
 ## Contacts
 
-If you wanna contact me, feel free to send me a message on Discord, @pedro.js, or in Signal, @ThePedroo.01, or in Telegram, @ThePedroo, I would love to chat with you.
+- Signal: @ThePedroo.01
+- Discord: @pedro.js
+- Telegram: @ThePedroo
+- Email: pedroolimpioguerra@gmail.com
+
+---
+
+Swear not to abandon me when I tell you the truth?        \
+Value the pain I went through, in my years of youth.      \
+It was all for you, and it was not painless for me to do. \
+I ask nothing in return, but a hug till I go through.
