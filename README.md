@@ -14,6 +14,18 @@ I have always prioritized deep knowledge in a few specific areas rather than sha
 
 Other interesting projects I have built, aside from the ones listed above, are [FrequenC](https://github.com/PerformanC/FrequenC), which is also a standalone server with the same goal as NodeLink, but totally written in C, with its own HTTP client, parser and server, and a WebSocket server; [TableC](https://github.com/PerformanC/TableC), an extremely customizable, simple, and powerful C hashtable; [PerforVNM](https://github.com/PerformanC/PerforVNM), the coolest project, a code generator to generate Visual Novels with an extremely high performance.
 
+## Donate
+
+If you feel like any of the projects I have created helped you in any way, and you feel like showing support by donating, below is my BTC address.
+
+It has always been about your support, regardless of how shown. Don't make excuses for something you never had to do.
+
+```
+bc1qc9gpa7llp6k32au550c3jclvf8q4cam2njd6r6
+```
+
+OBS: To protect my identity, this is currently the only way.
+
 ## Contacts
 
 - Signal: @ThePedroo.01
