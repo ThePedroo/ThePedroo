@@ -1,6 +1,6 @@
 ## About me
 
-Howdy, I am a 16-year-old boy from Brazil. I have been programming since I was 11, starting with JavaScript (Node.js). Currently, I am in the 2nd year of high school, at Instituto Federal. My hobbies, aside from programming, are being a furry (I am a wolf, hey!), listening to music, and playing games, such as Roblox (Tower of Hell especially). I look forward to becoming a Computer Scientist or a Computer Engineer.
+Howdy, I am a 16-year-old boy from Brazil. I have been into programming since I was 11 years old, beginning with JavaScript (Node.js). Currently, I am in the 3rd year of high school, at Instituto Federal. My hobbies, aside from programming, are being a furry (I am a wolf, hey!), listening to music, and gaming. I look forward to becoming a Computer Engineer.
 
 ## Knowledge
 
@@ -10,7 +10,7 @@ I have always prioritized deep knowledge in a few specific areas rather than sha
 
 ## Projects
 
-[ReZygisk](https://github.com/PerformanC/ReZygisk), a project that allows close to traceless injection in Android applications through Zygote, is by far the most famous project I have built with over 2k stars on its GitHub repository. Following behind, [ReLSPosed](https://github.com/ThePedroo/ReLSPosed), in the same area as ReZygisk — code injection in Android apps — with 300+ stars and counting. And, to break the Android related projects in the podium, [NodeLink](https://github.com/PerformanC/NodeLink), a standalone server for audio playback for Discord.
+[ReZygisk](https://github.com/PerformanC/ReZygisk), a project that allows close to traceless injection in Android applications through Zygote, is by far the most famous project I have built with over 3k stars on its GitHub repository. Following behind, [ReLSPosed](https://github.com/ThePedroo/ReLSPosed), in the same area as ReZygisk — code injection in Android apps — with 900+ stars (RIP). And, to break the Android related projects in the podium, [NodeLink](https://github.com/PerformanC/NodeLink), a standalone server for audio playback for Discord.
 
 Other interesting projects I have built, aside from the ones listed above, are [FrequenC](https://github.com/PerformanC/FrequenC), which is also a standalone server with the same goal as NodeLink, but totally written in C, with its own HTTP client, parser and server, and a WebSocket server; [TableC](https://github.com/PerformanC/TableC), an extremely customizable, simple, and powerful C hashtable; [PerforVNM](https://github.com/PerformanC/PerforVNM), the coolest project, a code generator to generate Visual Novels with an extremely high performance.
 
@@ -20,8 +20,13 @@ If you feel like any of the projects I have created helped you in any way, and y
 
 It has always been about your support, regardless of how shown. Don't make excuses for something you never had to do.
 
+BTC:
 ```
 bc1qc9gpa7llp6k32au550c3jclvf8q4cam2njd6r6
+```
+Monero:
+```
+4AvbvPLD1MAXhxB6jSF1kpLBmG2VPXL1Y1DWiD7BwHipK7sokG1sRuV9poorcJyL39hUBdug6VpsFTCapMaBqvPW8dkMZAR
 ```
 
 OBS: To protect my identity, this is currently the only way.
@@ -30,8 +35,8 @@ OBS: To protect my identity, this is currently the only way.
 
 - Signal: @ThePedroo.01
 - Discord: @pedro.js
-- Telegram: @ThePedroo
-- Email: pedroolimpioguerra@gmail.com
+- Telegram: @ThePedr00
+- Email: pedro@performanc.org
 
 ---
 
